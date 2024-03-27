@@ -1,1 +1,1 @@
-# Multithreaded_entropy_algo
+# Multithreaded Incremental Entropy Algorithm
