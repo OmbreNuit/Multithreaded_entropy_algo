@@ -1,5 +1,5 @@
 # Multithreaded Incremental Entropy Algorithm
-This is a multithreaded version of the incremental entropy algorithm proposed by Dr. Rincon in the paper "Entropy-based scheduling performance in real-time multiprocessor systerms"
+This is a multithreaded version of the incremental entropy algorithm proposed by Dr. Rincon in the paper "Entropy-based scheduling performance in real-time multiprocessor systems"
 
 Article found at <https://ieeexplore.ieee.org/abstract/document/10089704>
 
